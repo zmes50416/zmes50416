@@ -1,26 +1,12 @@
 ### 👋🏻 Hello, forks!
 
 My name is Dean Su, I am a self-taught software developer with passion in software development.🧑🏻‍💻  
-I have experience with Golang and Java. 
+I belive in the power of software that can change the world.💪🏻
+
+I’m looking to collaborate on any Golang or Java project. 
 
 ## 📫 How to reach me
 
 - [🧳Linkedin](www.linkedin.com/in/sutingwen)
-- [Github](https://github.com/zmes50416)
-
-
-
-<!--
-**zmes50416/zmes50416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [🐙Github](https://github.com/zmes50416)
+- [📧Email To me](mailto:zmes50416@gmail.com)
