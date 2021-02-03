@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋🏻 Hello, forks!
+
+My name is Dean Su, I am a self-taught software developer with passion in software development.🧑🏻‍💻  
+I have experience with Golang and Java. 
+
+## 📫 How to reach me
+
+- [🧳Linkedin](www.linkedin.com/in/sutingwen)
+- [Github](https://github.com/zmes50416)
+
+
 
 <!--
 **zmes50416/zmes50416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
